@@ -48,7 +48,7 @@
     "eslint": "^8.44.0",
     "eslint-plugin-powerbi-visuals": "^0.8.1",
     "jasmine": "5.0.2",
-    "karma": "^6.4.2",
+    "karma": "^1.0.0",
     "karma-chrome-launcher": "3.2.0",
     "karma-coverage": "^2.2.1",
     "karma-coverage-istanbul-reporter": "^3.0.3",
@@ -80,7 +80,6 @@
     "webpack": "^5.88.1"
   },
   "dependencies": {
-    "powerbi-visuals-utils-formattingmodel": "^5.0.1",
-    "semver": "^5.0.0"
+    "powerbi-visuals-utils-formattingmodel": "^5.0.1"
   }
 }
