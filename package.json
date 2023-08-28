@@ -80,6 +80,7 @@
     "webpack": "^5.88.1"
   },
   "dependencies": {
-    "powerbi-visuals-utils-formattingmodel": "^5.0.1"
+    "powerbi-visuals-utils-formattingmodel": "^5.0.1",
+    "semver": "^5.0.0"
   }
 }
